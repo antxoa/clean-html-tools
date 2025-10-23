@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Clean HTML Tools",
+          "submenu": [
+            { "label": "Eliminar etiquetas HTML", "command": "clean-html-tools:remove-tags" },
+            { "label": "Eliminar id de títulos", "command": "clean-html-tools:remove-id-from-headings" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "atom-text-editor": {
+    "ctrl-alt-t": "clean-html-tools:remove-tags",
+    "ctrl-alt-h": "clean-html-tools:remove-id-from-headings"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "clean-html-tools",
+  "main": "./lib/clean-html-tools",
+  "version": "0.1.0",
+  "description": "Elimina etiquetas HTML y atributos id de títulos en el texto seleccionado.",
+  "activationCommands": {
+    "atom-text-editor": [
+      "clean-html-tools:remove-tags",
+      "clean-html-tools:remove-id-from-headings"
+    ]
+  },
+  "repository": "https://github.com/antxoa/clean-html-tools",
+  "license": "MIT"
+}
